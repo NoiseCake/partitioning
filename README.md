@@ -2,8 +2,7 @@
 
 Enumerate ways to fill `box` slots with positive integers that sum to `target`, in non-decreasing order.
 
-## Run
-
+Practice coding.
 ```
 python3 main.py
 ```
